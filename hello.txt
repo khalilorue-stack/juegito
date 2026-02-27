@@ -1,1 +1,1 @@
-print("way way");
+print("hello Word");
